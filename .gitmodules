@@ -10,3 +10,6 @@
 [submodule "modules/html-minifier"]
 	path = modules/html-minifier
 	url = git@github.com:rhiokim/html-minifier.git
+[submodule "modules/node-compress"]
+	path = modules/node-compress
+	url = git@github.com:rhiokim/node-compress.git

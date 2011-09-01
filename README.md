@@ -1,0 +1,12 @@
+#INTRO
+HTTP 리소스 옵티마이저는 흔히 웹 사이트를 구성하기 위한 구성 요소로 HTML, CSS, JavaScript, Image 를 자동으로 최적화하기 위한
+도구입니다.
+
+HTTP Resource Optimizer 는 개발에서 실제 서비스에 배포하기 전 단계에서 리소스를 최적화 할 수 있는 다양한 옵션들을 제공합니다.
+
+
+#Modules
+* [csslint] (http://csslint.net)
+* [html-minifier] (http://kangax.github.com/html-minifier)
+* [jslint] (http://jslint.com)
+* [uglifyjs] (http://marijn.haverbeke.nl/uglifyjs)
