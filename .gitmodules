@@ -1,0 +1,12 @@
+[submodule "modules/csslint"]
+	path = modules/csslint
+	url = https://github.com/rhiokim/csslint
+[submodule "modules/jslint"]
+	path = modules/jslint
+	url = git@github.com:rhiokim/JSLint.git
+[submodule "modules/uglifyjs"]
+	path = modules/uglifyjs
+	url = https://github.com/rhiokim/UglifyJS
+[submodule "modules/html-minifier"]
+	path = modules/html-minifier
+	url = git@github.com:rhiokim/html-minifier.git
