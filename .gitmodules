@@ -13,3 +13,12 @@
 [submodule "modules/node-compress"]
 	path = modules/node-compress
 	url = git@github.com:rhiokim/node-compress.git
+[submodule "modules/node-css-compressor"]
+	path = modules/node-css-compressor
+	url = git@github.com:rhiokim/node-css-compressor.git
+[submodule "modules/node-findit"]
+	path = modules/node-findit
+	url = git@github.com:rhiokim/node-findit.git
+[submodule "modules/jshint"]
+	path = modules/jshint
+	url = git@github.com:rhiokim/jshint.git

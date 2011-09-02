@@ -1,4 +1,4 @@
-#INTRO
+#Intro
 HTTP 리소스 옵티마이저는 흔히 웹 사이트를 구성하기 위한 구성 요소로 HTML, CSS, JavaScript, Image 를 자동으로 최적화하기 위한
 도구입니다.
 
@@ -10,3 +10,6 @@ HTTP Resource Optimizer 는 개발에서 실제 서비스에 배포하기 전 �
 * [html-minifier] (http://kangax.github.com/html-minifier)
 * [jslint] (http://jslint.com)
 * [uglifyjs] (http://marijn.haverbeke.nl/uglifyjs)
+* [node-compress] (https://github.com/waveto/node-compress.git)
+* [node-css-compressor] (http://developer.yahoo.com/yui/compressor/)
+* [node-findit] (https://github.com/substack/node-findit)
