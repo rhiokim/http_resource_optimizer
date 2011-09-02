@@ -13,3 +13,5 @@ HTTP Resource Optimizer 는 개발에서 실제 서비스에 배포하기 전 �
 * [node-compress] (https://github.com/waveto/node-compress.git)
 * [node-css-compressor] (http://developer.yahoo.com/yui/compressor/)
 * [node-findit] (https://github.com/substack/node-findit)
+* [node-minify] (https://github.com/srod/node-minify)
+* [node-cssmin] (https://github.com/jbleuzen/node-cssmin)

@@ -22,3 +22,6 @@
 [submodule "modules/jshint"]
 	path = modules/jshint
 	url = git@github.com:rhiokim/jshint.git
+[submodule "modules/node-minify"]
+	path = modules/node-minify
+	url = https://github.com/srod/node-minify.git
