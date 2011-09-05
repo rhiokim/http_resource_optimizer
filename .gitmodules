@@ -25,3 +25,6 @@
 [submodule "modules/node-minify"]
 	path = modules/node-minify
 	url = https://github.com/srod/node-minify.git
+[submodule "modules/Springboard"]
+	path = modules/Springboard
+	url = https://github.com/soulwire/Springboard.git
