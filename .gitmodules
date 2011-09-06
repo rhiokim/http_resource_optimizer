@@ -28,3 +28,6 @@
 [submodule "modules/Springboard"]
 	path = modules/Springboard
 	url = https://github.com/soulwire/Springboard.git
+[submodule "modules/node-jsmin"]
+	path = modules/node-jsmin
+	url = https://github.com/pkrumins/node-jsmin.git

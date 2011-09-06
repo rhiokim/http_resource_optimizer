@@ -14,6 +14,7 @@ HTTP Resource Optimizer 는 개발에서 실제 서비스에 배포하기 전 �
 * [node-findit] (https://github.com/substack/node-findit)
 * [node-minify] (https://github.com/srod/node-minify)
 * [node-cssmin] (https://github.com/jbleuzen/node-cssmin)
+* [node-jsmin] (https://github.com/pkrumins/node-jsmin)
 
 #Reference
 * [google closure compiler application](http://code.google.com/closure/compiler/docs/gettingstarted_app.html): 구글 클로져 컴파일 애플리케이션 레퍼런스
