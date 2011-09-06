@@ -4,6 +4,17 @@ HTTP 리소스 옵티마이저는 흔히 웹 사이트를 구성하기 위한 �
 
 HTTP Resource Optimizer 는 개발에서 실제 서비스에 배포하기 전 단계에서 리소스를 최적화 할 수 있는 다양한 옵션들을 제공합니다.
 
+#Todo List
+* 자바스크립트 압축
+* 스타일 시트 압축
+* 마크업 압축
+* 이미지 압축
+* gzip 압축
+
+* 선택적 압축 플러그인
+* 압축 효율 리포팅
+* 리소스 변화 추이(주간/월간)
+
 #Modules
 * [csslint] (http://csslint.net)
 * [html-minifier] (http://kangax.github.com/html-minifier)
