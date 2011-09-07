@@ -17,7 +17,7 @@ extend(CssMinAdapter.prototype, {
    compress : function(file){
       var me = this;
 
-      fs.readFile(file, function(err, data){
+      fs.readFile(file, 'utf8', function(err, data){
          var res = cssmin(data);
          me.emit('complete', res);
       });
