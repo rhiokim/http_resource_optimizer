@@ -1,5 +1,5 @@
 var exec = require("child_process").exec;
-var EventEmitter = require('events').EventEmitter;
+var emitter = require('events').EventEmitter;
 var util = require('util');
 
 var ClosureAdapter = function(options) {
@@ -10,13 +10,13 @@ var ClosureAdapter = function(options) {
    this._cmd = 'java -jar ../../lib/google_closure_compiler.jar --js #{input}';
    this._export = ' --js_output_file ${output}';
    
-   EventEmitter.call(this);
+   emitter.call(this);
 }
 
 /**
  * EventEmitter 상속
  */
-util.inherits(ClosureAdapter, EventEmitter);
+util.inherits(ClosureAdapter, emitter);
 
 /**
  * 구글 클로져 압축 도구
