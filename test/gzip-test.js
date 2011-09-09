@@ -1,4 +1,4 @@
-var adapter = require('../src/gzip').Gzip;
+var adapter = require('../../src/gzip').Gzip;
 var gzip = new adapter();
 
 gzip.on('complete', function(stdout){
