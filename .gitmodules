@@ -31,3 +31,6 @@
 [submodule "modules/jshint-autofix"]
 	path = modules/jshint-autofix
 	url = https://github.com/goatslacker/jshint-autofix.git
+[submodule "modules/csslint"]
+	path = modules/csslint
+	url = https://github.com/stubbornella/csslint.git
