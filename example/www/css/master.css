@@ -1,3 +1,10 @@
 body {
    font-size : 11px
+   display : none;
 }
+
+h1 {
+   color : #red;
+   line-height : 18px;
+}
+

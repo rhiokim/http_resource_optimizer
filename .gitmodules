@@ -1,6 +1,3 @@
-[submodule "modules/csslint"]
-	path = modules/csslint
-	url = https://github.com/rhiokim/csslint
 [submodule "modules/jslint"]
 	path = modules/jslint
 	url = git@github.com:rhiokim/JSLint.git
@@ -31,3 +28,6 @@
 [submodule "modules/node-jsmin"]
 	path = modules/node-jsmin
 	url = https://github.com/pkrumins/node-jsmin.git
+[submodule "modules/jshint-autofix"]
+	path = modules/jshint-autofix
+	url = https://github.com/goatslacker/jshint-autofix.git

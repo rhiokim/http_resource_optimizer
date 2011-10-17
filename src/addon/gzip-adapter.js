@@ -14,12 +14,11 @@ util.inherits(gzipAdapter, emitter);
 
 extend(gzipAdapter.prototype, {
    compress : function(file){
-      var me = this;
-console.log('1.compress exec');
+      var res, 
+         me = this;
+
       fs.readFile(file, 'binary', function(err, data){
-         console.log('2.file read complete', data.length);
-         var res = me.gzip.deflate(data, 'binary');
-         console.log('3.gzip compressed', res);
+         res = me.gzip.deflate(data, 'binary');
          me.emit('complete', res);
       });
    }
